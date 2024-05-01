@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lauramoura06@gmail.com**
 
-- ⚡ Fun fact **Very Passionate about Musical theatre**
+- ⚡ Fun fact: **Very Passionate about Musical theatre**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
