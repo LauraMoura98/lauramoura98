@@ -5,7 +5,7 @@
 
 - 😄 Pronouns: **She/Her**
 
-- 🌱 I’m currently learning **Git, CI/CD, AWS Cloud, Python**
+- 🌱 I’m currently learning **Github Actions, CI/CD, AWS Cloud, Python**
 
 - 📫 How to reach me **lauramoura06@gmail.com**
 
