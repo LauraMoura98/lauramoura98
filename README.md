@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @lauramoura98</h1>
 <h3 align="center">A passionate Software Developer from Brazil!</h3>
 
-- 👀 I’m interested in **books, games, cloud computing, programming languages, etc.**
+- 👀 I’m interested in **books, games, cloud computing, programming languages, devops etc.**
 
 - 😄 Pronouns: **She/Her**
 
